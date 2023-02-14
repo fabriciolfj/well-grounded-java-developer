@@ -1,0 +1,10 @@
+.git
+.idea/
+*.iml
+*.class
+
+# Ignore build folders
+out/
+build/
+target/
+.gradle/
